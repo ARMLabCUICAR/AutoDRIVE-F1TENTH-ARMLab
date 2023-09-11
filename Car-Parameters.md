@@ -5,7 +5,7 @@
 ## Kinodynamic Parameters
 | Parameter | Value |
 | :-------: | :---: |
-| Car Weight   | 3.77 kg |
+| Car Weight   | 3.47 kg |
 | Wheel Weight | 0.109 kg |
 | Car Length   | 0.50 m |
 | Car Width    | 0.27 m |
@@ -17,7 +17,7 @@
 | Wheel Width | 0.045 m |
 | Min Turning Radius (@ Max Steering Angle) | 0.5611 m |
 | Max Steering Angle (Wheel-Road Angle) | 0.523599 rad (30 deg) |
-| Max Speed :warning: Physical Car Limit :warning: | 8.9408 m/s (20 mph) |
+| Max Speed :warning: Physical Car Limit :warning: | 19.67 m/s (44 mph) |
 
 ### Reference:
 `src/autodrive/config/planner_params.yaml`
